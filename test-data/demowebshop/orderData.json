@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "name": "Computing and Internet",
+      "category": "Books",
+      "expectedPrice": 10.00,
+      "quantity": 2
+    },
+    {
+      "name": "Fiction",
+      "category": "Books",
+      "expectedPrice": 24.00,
+      "quantity": 1
+    },
+    {
+      "name": "14.1-inch Laptop",
+      "category": "Notebooks",
+      "expectedPrice": 1590.00,
+      "quantity": 1
+    }
+  ],
+  "shippingDetails": {
+    "firstName": "Test",
+    "lastName": "User",
+    "email": "testuser@example.com",
+    "company": "Test Company",
+    "country": "United States",
+    "city": "New York",
+    "address1": "123 Test Street",
+    "address2": "Apt 4B",
+    "zipCode": "10001",
+    "phoneNumber": "5551234567"
+  },
+  "paymentMethod": "Cash On Delivery"
+}
